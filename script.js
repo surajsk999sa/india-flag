@@ -16,7 +16,9 @@ let colorArray = [
     "#0DD97A",
     "#0798F2",
     "#F2E205",
-    "#D90718"
+    "#D90718",
+    "E8F9FD",
+    "59CE8F"
 
 ]
 //mouse move function
